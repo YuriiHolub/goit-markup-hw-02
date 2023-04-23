@@ -1,0 +1,239 @@
+body {
+	font-family: 'Roboto', sans-serif ;
+}
+
+.link {
+	text-decoration: none;
+}
+
+.list {
+	list-style: none;
+}
+
+.header-link {
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+
+.header-mail {
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.header-tel {
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.hero {
+	background-color: #434455;
+}
+.hero-title {
+font-weight: 700;
+font-size: 56px;
+line-height: 1,07;
+text-align: center;
+letter-spacing: 0.02em;
+color: #FFFFFF
+}
+
+.hero-btn {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.50;
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+color: #FFFFFF;
+}
+
+/*--advantages--*/
+
+.advantages {
+	
+}
+.advantages-list {
+}
+.list {
+}
+.advantages-item {
+}
+
+.advantages-title {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.advantages-top-text {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
+
+/*?----WORK---*/
+
+.work-title {
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 1.11;
+	text-align: center;
+	letter-spacing: 0.02em;
+	text-transform: capitalize;
+	color: #2E2F42;
+}
+
+.work-list {
+}
+.list {
+}
+.work-item {
+}
+
+/*---EMPLOYEES---*/
+.employees {
+}
+
+.employees-title {
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 1.11;
+	text-align: center;
+	letter-spacing: 0.02em;
+	text-transform: capitalize;
+	color: #2E2F42;
+}
+.employees-list {
+
+}
+.list {
+}
+.employees-item {
+}
+.specialist-title {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.20;
+	text-align: center;
+	letter-spacing: 0.02em;
+	color: #2E2F42;
+}
+.specialist-text {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.50;
+	text-align: center;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
+
+/*--FOOTER--*/
+.footer {
+	background-color: #9697af;
+}
+
+.header-logo {
+}
+.link {
+}
+.footer-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.50;
+letter-spacing: 0.02em;
+color: #E7E9FC;
+}
+
+/*----PORTFOLIO---*/
+/*?----BENEFITS---*/
+
+.benefits {
+}
+.benefits-list {
+}
+.list {
+}
+.benefits-item {
+}
+.benefits-title {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.20;
+	letter-spacing: 0.02em;
+	color: #2E2F42;
+}
+
+.benefits-top-text {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.50;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
+
+/*---ADV---*/
+
+.adv {
+}
+.adv-list {
+}
+.list {
+}
+.adv-item {
+}
+.adv-title {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.20;
+	letter-spacing: 0.02em;
+	color: #2E2F42;
+}
+
+.adv-top-text {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.50;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
+
+/*----PROMO----*/
+
+.promo {
+}
+.promo-list {
+}
+.list {
+}
+.promo-item {
+}
+.promo-title {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.20;
+	letter-spacing: 0.02em;
+	color: #2E2F42;
+}
+.promo-top-text {
+	font-size: 16px;
+	line-height: 1.50;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
